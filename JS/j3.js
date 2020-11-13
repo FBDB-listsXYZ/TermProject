@@ -15,7 +15,7 @@ Be sure that your code is not within this comment section.
 
 //===>Your code goes on the next line:
 
-var element = document.getEelementById('quote');
+var element = document.getElementById('quote');
 
 
 
@@ -36,7 +36,7 @@ You simply want to write a statement the console log of the browser. The stateme
 //===>Your code goes on the next line:
 
 var something = "animation completed";
-console.log(completed);
+console.log(something);
 
 /*
 hint: you will need when your JS code is correct when you receive no errors in the console log. If you receive a syntax error in the console log when loading the learntargetj3.html page, then try to troubleshoot and resolve the error.
